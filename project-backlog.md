@@ -2,6 +2,7 @@
 ## User Registration
 | ID | Title | Description | Priority | Status |
 | -- | ----- | ----------- | -------- | ------ |
-| 1 | Fine Management | Sending a Notification for User to pay their outstanding Fine dues and collecting Fines| High | Not Started |
-| 2 | Report Genration | Generating the reports to library Management | Medium | Not Started |
-| 3 | Notification Alerts | Sending to Notification user about Book Borrow, Book return due alert, Fine dues and new book alert   | Medium | Not Started |
+| 1 | User Login| Implement User Login functionality | High | Not Started |
+| 1 | Dashboard | Implement Dashboard to manage the tasks | High | Not Started |
+| 2 | Password Recovery | Implement Recovery password if user forgotten the Password | High | Not Started |
+| 3 | Help | Implement Help Section if any errors in User dashboard   | Medium | Not Started |
